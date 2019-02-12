@@ -4,4 +4,3 @@ def current_age_for_birth_year(birth_year) do
 
     expect(age).to eq(2003)
   end
-  
